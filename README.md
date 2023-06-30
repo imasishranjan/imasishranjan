@@ -4,9 +4,10 @@
 A passionate frontend developer from India<br><br> 
 
 ## my Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasishranjan/) 
 
-[![FaceBook](https://img.shields.io/badge/FaceBook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/in/asishranjandas02/) 
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasishranjan/) 
+
+# [![FaceBook](https://img.shields.io/badge/FaceBook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/asishranjandas02/) 
 
 
 #  my » Tech Stack:
