@@ -1,9 +1,9 @@
-### Hi there 👋
+### 🌈 Hi there 👋
 
-#  About Me:
+# 💫 About Me:
 A passionate frontend developer from India<br><br> 
 
-# my Socials:
+# 🗨️ My Socials:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasishranjan/) 
 
