@@ -31,7 +31,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rick7890.github.io/MeemGenerator/" " width="512px"/>
+<img src="https://rick7890.github.io/MeemGenerator/" width="512px"/>
 
 
 ---
