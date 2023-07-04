@@ -2,7 +2,9 @@
 
 
 # 💫 About Me 👨‍💼:
-🔭 I’m currently working on Frontend <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with peoples<br>🌱 I’m currently learning Full-Stack<br>💬 Ask me about my stories<br>⚡ Fun fact - I Still watch Cartoons
+🔭 I’m currently working on Frontend <br>👯 I’m looking to collaborate on<br>
+📍 हिंदू 🚩<br>
+🤝 I’m looking for help with peoples<br>🌱 I’m currently learning Full-Stack<br>💬 Ask me about my stories<br>⚡ Fun fact - I Still watch Cartoons
 
 
 ## 🌐 Socials:
